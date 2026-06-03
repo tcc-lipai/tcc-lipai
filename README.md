@@ -25,7 +25,7 @@ Conheça a equipe responsável pelo desenvolvimento do LipAI:
     <img src="https://img.shields.io/badge/Arthur%20Gael-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Arthur Gael GitHub">
   </a>
   
-  <a href="https://github.com/evellynfurtad0" target="_blank">
+  <a href="https://github.com/evellynfurtado" target="_blank">
     <img src="https://img.shields.io/badge/Evellyn%20Furtado-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Evellyn Furtado GitHub">
   </a>
   
