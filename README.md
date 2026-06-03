@@ -1,16 +1,16 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F8EDFB&height=120&section=header&text=LipAI&fontSize=40&fontColor=ffffff">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header&text=LipAI&fontSize=40&fontColor=ffffff">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=30&center=true&vCenter=true&width=1000&lines=LipAI+-+Acessibilidade+e+Inclus%C3%A3o;Sistema+de+aprendizado+de+leitura+labial+e+fala;Desenvolvido+para+pessoas+com+defici%C3%AAncia+auditiva+e+surdos)](https://git.io/typing-svg)
 
 ---
 
-## 📱 Sobre o Projeto LipAI
+##  Sobre o Projeto LipAI
 
 O **LipAI** é um sistema desenvolvido como Trabalho de Conclusão de Curso (TCC) com o objetivo de promover a inclusão e a acessibilidade. O sistema utiliza inteligência artificial para auxiliar pessoas com deficiência auditiva e surdos no aprendizado e desenvolvimento da **leitura labial** e da **fala**, proporcionando mais autonomia e conectividade.
 
 ---
 
-## 💻 Desenvolvedores do Projeto
+##  Desenvolvedores do Projeto
 
 Conheça a equipe responsável pelo desenvolvimento do LipAI:
 
@@ -40,7 +40,7 @@ Conheça a equipe responsável pelo desenvolvimento do LipAI:
 
 ---
 
-### 🤖 Linguagens e Tecnologias Utilizadas
+###  Linguagens e Tecnologias Utilizadas
 
 <p align="left">
 <img align="left" alt="CSS" title="CSS" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -56,4 +56,4 @@ Conheça a equipe responsável pelo desenvolvimento do LipAI:
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AD74C3&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
